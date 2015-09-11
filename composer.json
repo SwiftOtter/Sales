@@ -1,6 +1,6 @@
 {
-    "name": "SwiftOtter/EmailNotifications",
-    "description": "SwiftOtter's kit module makes a new product type that combines one or more products and allows specifying quantities for each product.",
+    "name": "SwiftOtter/Sales",
+    "description": "This module provides additional features to support SwiftOtter's modules.",
     "version": "1.0.0",
     "type": "magento-module",
     "require": {
